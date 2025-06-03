@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|c:\\users\\user\\desktop\\facultate\\anii\\sem_ii\\mvp\\calculator_t1\\calculator_t1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|solutionrelative:calculator_t1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|c:\\users\\user\\desktop\\facultate\\anii\\sem_ii\\mvp\\calculator_t1\\calculator_t1\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|solutionrelative:calculator_t1\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|c:\\users\\user\\desktop\\facultate\\anii\\sem_ii\\mvp\\calculator_t1\\calculator_t1\\uicommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|solutionrelative:calculator_t1\\uicommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|c:\\users\\user\\desktop\\facultate\\anii\\sem_ii\\mvp\\calculator_t1\\calculator_t1\\standardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|solutionrelative:calculator_t1\\standardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|c:\\users\\user\\desktop\\facultate\\anii\\sem_ii\\mvp\\calculator_t1\\calculator_t1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|solutionrelative:calculator_t1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|c:\\users\\user\\desktop\\facultate\\anii\\sem_ii\\mvp\\calculator_t1\\calculator_t1\\programmerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|solutionrelative:calculator_t1\\programmerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|c:\\users\\user\\desktop\\facultate\\anii\\sem_ii\\mvp\\calculator_t1\\calculator_t1\\programmerwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|solutionrelative:calculator_t1\\programmerwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|c:\\users\\user\\desktop\\facultate\\anii\\sem_ii\\mvp\\calculator_t1\\calculator_t1\\programmerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B44CC6-8815-450B-8DDA-8253F04E4DAC}|Calculator_T1\\Calculator_T1.csproj|solutionrelative:calculator_t1\\programmerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 255,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator_T1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Calculator_T1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:38:54.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StandardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\StandardViewModel.cs",
+              "RelativeDocumentMoniker": "Calculator_T1\\StandardViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\StandardViewModel.cs",
+              "RelativeToolTip": "Calculator_T1\\StandardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:08:07.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UICommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\UICommand.cs",
+              "RelativeDocumentMoniker": "Calculator_T1\\UICommand.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\UICommand.cs",
+              "RelativeToolTip": "Calculator_T1\\UICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:21:46.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\CalculatorViewModel.cs",
+              "RelativeDocumentMoniker": "Calculator_T1\\CalculatorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\CalculatorViewModel.cs",
+              "RelativeToolTip": "Calculator_T1\\CalculatorViewModel.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAADwv8YAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:07:16.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Calculator_T1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\MainWindow.xaml",
+              "RelativeToolTip": "Calculator_T1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T15:38:55.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgrammerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\ProgrammerWindow.xaml",
+              "RelativeDocumentMoniker": "Calculator_T1\\ProgrammerWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\ProgrammerWindow.xaml",
+              "RelativeToolTip": "Calculator_T1\\ProgrammerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T19:18:01.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProgrammerWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\ProgrammerWindowViewModel.cs",
+              "RelativeDocumentMoniker": "Calculator_T1\\ProgrammerWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\ProgrammerWindowViewModel.cs",
+              "RelativeToolTip": "Calculator_T1\\ProgrammerWindowViewModel.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:07:25.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProgrammerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\ProgrammerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator_T1\\ProgrammerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FACULTATE\\ANII\\SEM_II\\MVP\\Calculator_T1\\Calculator_T1\\ProgrammerWindow.xaml.cs",
+              "RelativeToolTip": "Calculator_T1\\ProgrammerWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:03:00.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
